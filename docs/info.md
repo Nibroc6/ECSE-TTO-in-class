@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Just a simple and gate
 
 ## How to test
 
-Explain how to use your project
+Test all combinations of in 1 and 2, with an LED on output 1.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+DIP switch on input 1 & 2, LED on output 1.
